@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/tbicons">
+        <file>img/world.png</file>
+        <file>img/back.png</file>
+        <file>img/download.png</file>
+        <file>img/forward.png</file>
+        <file>img/gnu_logo.PNG</file>
+        <file>img/home.png</file>
+        <file>img/icon.png</file>
+        <file>img/info.png</file>
+        <file>img/picture_not_found.PNG</file>
+        <file>img/plugin_not_found.PNG</file>
+        <file>img/qt_logo.PNG</file>
+        <file>img/setting.png</file>
+        <file>img/star.png</file>
+        <file>img/uhr.png</file>
+        <file>img/update.png</file>
+        <file>img/webkit_logo.png</file>
+        <file>img/logo.png</file>
+        <file>img/file_icon.png</file>
+        <file>img/file_html.ico</file>
+        <file>img/folder_icon.PNG</file>
+        <file>img/cross.png</file>
+        <file>img/cookie.PNG</file>
+        <file>img/tashCan.png</file>
+        <file>img/edit.png</file>
+        <file>img/add.png</file>
+        <file>img/addFolder.png</file>
+        <file>img/show_hide_sidebar.png</file>
+    </qresource>
+    <qresource prefix="/html">
+        <file>html/errorpage.html</file>
+        <file>html/update_message.html</file>
+    </qresource>
+</RCC>
